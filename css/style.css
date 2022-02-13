@@ -155,6 +155,7 @@ ul{
     font-size: 18px;
     transition: var(--main-transition);
     overflow: hidden;
+    cursor: pointer;
 }
 @media (max-width: 767px){
     .header .main-nav > li > a{
